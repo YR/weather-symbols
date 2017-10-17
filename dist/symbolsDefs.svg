@@ -126,7 +126,7 @@
   </symbol>
   <symbol id="s02d">
     <use xlink:href="#sun" class="sun-primitive" x="0" y="0" width="100" height="100" transform="translate(4,9) scale(1,1)"></use>
-    <use xlink:href="#cloud" class="cloud1-primitive" x="0" y="0" width="100" height="100" transform="translate(43,37) scale(0.63,0.63)"></use>
+    <use xlink:href="#cloud" class="cloud1-primitive" x="0" y="0" width="100" height="100" transform="translate(40,37) scale(0.63,0.63)"></use>
   </symbol>
   <symbol id="s03d">
     <use xlink:href="#sun" class="sun-primitive" x="0" y="0" width="100" height="100" transform="translate(0,2) scale(0.7,0.7)"></use>
@@ -278,7 +278,7 @@
   </symbol>
   <symbol id="s02m">
     <use xlink:href="#sunWinter" class="sun-primitive" x="0" y="0" width="100" height="100" transform="translate(0,37) scale(1,1)"></use>
-    <use xlink:href="#cloud" class="cloud1-primitive" x="0" y="0" width="100" height="100" transform="translate(43,37) scale(0.63,0.63)"></use>
+    <use xlink:href="#cloud" class="cloud1-primitive" x="0" y="0" width="100" height="100" transform="translate(40,37) scale(0.63,0.63)"></use>
   </symbol>
   <symbol id="s03m">
     <use xlink:href="#sunWinter" class="sun-primitive" x="0" y="0" width="100" height="100" transform="translate(0,19) scale(0.7,0.7)"></use>
@@ -430,7 +430,7 @@
   </symbol>
   <symbol id="s02n">
     <use xlink:href="#moon" class="moon-primitive" x="0" y="0" width="100" height="100" transform="translate(15,20) scale(1,1)"></use>
-    <use xlink:href="#cloud" class="cloud1-primitive" x="0" y="0" width="100" height="100" transform="translate(43,37) scale(0.63,0.63)"></use>
+    <use xlink:href="#cloud" class="cloud1-primitive" x="0" y="0" width="100" height="100" transform="translate(40,37) scale(0.63,0.63)"></use>
   </symbol>
   <symbol id="s03n">
     <use xlink:href="#moon" class="moon-primitive" x="0" y="0" width="100" height="100" transform="translate(2,5) scale(0.714285714,0.714285714)"></use>

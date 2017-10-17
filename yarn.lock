@@ -22,7 +22,7 @@
     react "15.4.2"
     react-dom "15.4.2"
 
-"@yr/graphics-component@3.2.x":
+"@yr/graphics-component@3.2.1":
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/@yr/graphics-component/-/graphics-component-3.2.1.tgz#d7d9a10bce5d8347bd2fb64411e5eb2362a2230e"
   dependencies:
@@ -785,7 +785,7 @@ buddy-server@*, buddy-server@3.1.0:
     node-static "0.7.9"
     websocket "1.0.24"
 
-buddy@6.x.x:
+buddy@6.13.7:
   version "6.13.7"
   resolved "https://registry.yarnpkg.com/buddy/-/buddy-6.13.7.tgz#4c028831db9d485da9c1bd18da149a64f69c3fcd"
   dependencies:
@@ -3006,7 +3006,7 @@ optimist@>=0.3.4:
     wordwrap "~0.0.2"
 
 optional@^0.1.0:
-  version v0.1.3
+  version "0.1.3"
   resolved "https://registry.yarnpkg.com/optional/-/optional-0.1.3.tgz#f87537517b59a5e732cfd8f18e4f7eea7ab4761e"
 
 optipng-bin@^3.0.0:

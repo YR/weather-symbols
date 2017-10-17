@@ -1767,7 +1767,7 @@ var srclibrecipes__base = {
   }],
   '02': [{
     primitive: 'cloud',
-    x: 43,
+    x: 40,
     y: 37,
     scaleX: 0.63,
     scaleY: 0.63,
