@@ -30,8 +30,8 @@
     <use xlink:href="#cloud" fill="black" stroke="black" stroke-linejoin="round" stroke-width="10" x="0" y="0" width="100" height="100" transform="translate(3,18) scale(1,1)"></use>
   </mask>
     <linearGradient id="moon-grad" x1="0%" y1="50%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#686e73" />
-      <stop offset="100%" stop-color="#6a7075" />
+      <stop offset="0%" stop-color="#eadab2" />
+      <stop offset="100%" stop-color="#eadab2" />
     </linearGradient>
     <mask id="lightning_37_51_1_1_4">
     <rect x="0" y="0" width="100" height="100" fill="white"></rect>

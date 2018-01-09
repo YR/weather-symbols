@@ -21,8 +21,8 @@
 
   <defs>
     <linearGradient id="moon-grad" x1="0%" y1="50%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#686e73" />
-      <stop offset="100%" stop-color="#6a7075" />
+      <stop offset="0%" stop-color="#eadab2" />
+      <stop offset="100%" stop-color="#eadab2" />
     </linearGradient>
   </defs>
   <symbol id="moon">
@@ -30,7 +30,7 @@
   </symbol>
 
   <symbol id="raindrop">
-    <path fill="#0062bf" d="M2.5,13A2.5,2.5,0,0,1,.21,9.51l3.55-8a2.5,2.5,0,0,1,4.57,2l-3.55,8A2.5,2.5,0,0,1,2.5,13Z"></path>
+    <path fill="#47c0e3" d="M2.5,13A2.5,2.5,0,0,1,.21,9.51l3.55-8a2.5,2.5,0,0,1,4.57,2l-3.55,8A2.5,2.5,0,0,1,2.5,13Z"></path>
   </symbol>
 
   <symbol id="snowflake">

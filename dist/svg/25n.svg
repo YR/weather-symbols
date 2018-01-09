@@ -1,6 +1,6 @@
 <svg x="0" y="0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">;
   <symbol id="raindrop">
-    <path fill="#0062bf" d="M2.5,13A2.5,2.5,0,0,1,.21,9.51l3.55-8a2.5,2.5,0,0,1,4.57,2l-3.55,8A2.5,2.5,0,0,1,2.5,13Z"></path>
+    <path fill="#47c0e3" d="M2.5,13A2.5,2.5,0,0,1,.21,9.51l3.55-8a2.5,2.5,0,0,1,4.57,2l-3.55,8A2.5,2.5,0,0,1,2.5,13Z"></path>
   </symbol>
   <symbol id="lightning">
     <polygon fill="#ffdd15" points="19.6 23.42 12.74 20.39 15.55 5 5 24.49 12.08 27.51 7.49 45 19.6 23.42"></polygon>
@@ -30,8 +30,8 @@
     <use xlink:href="#cloud" fill="black" stroke="black" stroke-linejoin="round" stroke-width="10" x="0" y="0" width="100" height="100" transform="translate(3,18) scale(1,1)"></use>
   </mask>
     <linearGradient id="moon-grad" x1="0%" y1="50%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#686e73" />
-      <stop offset="100%" stop-color="#6a7075" />
+      <stop offset="0%" stop-color="#eadab2" />
+      <stop offset="100%" stop-color="#eadab2" />
     </linearGradient>
     <mask id="lightning_37_51_1_1_4">
     <rect x="0" y="0" width="100" height="100" fill="white"></rect>
